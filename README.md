@@ -1,6 +1,2 @@
-hey i make cute apps <3
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
+hey i make cute apps <3 (˶ᵔ ᵕ ᵔ˶)
 

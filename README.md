@@ -1,2 +1,2 @@
-hey i make cute apps <3 (˶ᵔ ᵕ ᵔ˶)
+(˶ᵔ ᵕ ᵔ˶)
 

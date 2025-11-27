@@ -1,5 +1,5 @@
 
-<img width="32" height="32" alt="17889-kuromi-blush" src="https://github.com/user-attachments/assets/087488e0-4de3-41ca-bd19-dcfdab1a2aa7" />
+<img width="45" height="45" align="center" alt="17889-kuromi-blush" src="https://github.com/user-attachments/assets/087488e0-4de3-41ca-bd19-dcfdab1a2aa7" />
 
 - Hi, I'm Manjeet Dodiya 🌺
   <br>

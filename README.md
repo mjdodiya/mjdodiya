@@ -1,4 +1,4 @@
-![Kuromi Blush](https://tenor.com/view/sanrio-cute-emojis-stickers-cinnamon-gif-3239306706821307576)
+[![Kuromi Blush](https://tenor.com/view/sanrio-cute-emojis-stickers-cinnamon-gif-3239306706821307576)]
 <br>
 - Hi, I'm Manjeet Dodiya 🌺
   <br>

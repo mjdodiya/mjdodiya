@@ -3,21 +3,13 @@
 </p>
 
 - Hi, I'm Manjeet Dodiya 🌺
-  
   <br>
-  
 - I'm interested in FrontEnd & Mobile Development
-  
   <br>
-  
-- I'm currently learning React native and 
-
+- Currently learning React native 
   <br>
-  
 - Looking to collaborate on Open Source Projects
-  
   <br>
-  
 - Here's how to reach me : 📧 (mjdodiya.dev@gmail.com)
   
   <br>

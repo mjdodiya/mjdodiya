@@ -1,5 +1,5 @@
-
-<img width="45" height="45" align="center" alt="17889-kuromi-blush" src="https://github.com/user-attachments/assets/087488e0-4de3-41ca-bd19-dcfdab1a2aa7" />
+<p align="center">
+<img width="45" height="45" alt="17889-kuromi-blush" src="https://github.com/user-attachments/assets/087488e0-4de3-41ca-bd19-dcfdab1a2aa7" /> </p>
 
 - Hi, I'm Manjeet Dodiya 🌺
   <br>
@@ -11,8 +11,13 @@
   <br>
 - Here's how to reach me : 📧 (mjdodiya.dev@gmail.com)
 <br>
+
 ![mjdodiya's Stats](https://github-readme-stats.vercel.app/api?username=mjdodiya&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+
 <br>
+
 ![mjdodiya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjdodiya&theme=nightowl&hide_border=false)
+
 <br>
+
 ![mjdodiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjdodiya&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
